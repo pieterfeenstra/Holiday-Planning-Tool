@@ -73,3 +73,7 @@ background-color: #FEBB02;
 .navbar h1{
   color: #fff;
 }
+
+.searchbar p{
+  display: inline-block;
+}
